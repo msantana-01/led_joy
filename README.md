@@ -51,7 +51,3 @@ O código é dividido em várias funções principais:
 ## Contribuições
 
 Sinta-se à vontade para fazer melhorias ou reportar problemas. Pull requests são bem-vindos!
-
-## Licença
-
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
